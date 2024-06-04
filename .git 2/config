@@ -1,0 +1,22 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/jinho7/UMC_SmuPool_GroupD_BE.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "feat/#1"]
+	remote = origin
+	merge = "refs/heads/feat/#1"
+[branch "feat/#6"]
+	remote = origin
+	merge = "refs/heads/feat/#6"
+[branch "feat/#5"]
+	remote = origin
+	merge = "refs/heads/feat/#5"
+[branch "feat/#11"]
+	remote = origin
+	merge = "refs/heads/feat/#11"
