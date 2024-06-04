@@ -1,0 +1,21 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+?
+settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+i
+9src/main/java/com/example/template/domain/repository.java,3/7/3756494c62018d618df61cd4112bfd19c7ff8982
+|
+Lsrc/main/java/com/example/template/domain/func1/exception/FuncErrorCode.java,8/9/89b2a3236665206204fe01fc7efadbe0c4fa1d32
+
+Osrc/main/java/com/example/template/global/apiPayload/code/GeneralErrorCode.java,b/6/b6a939b849ec77ea7556bbc16c44059e7131bd25
+ƒ
+Ssrc/main/java/com/example/template/global/apiPayload/code/status/BaseErrorCode.java,0/5/056b0583216fe5e8d99e0b132ccf51190e1bdecf
+’
+bsrc/main/java/com/example/template/global/apiPayload/exception/handler/GlobalExceptionHandler.java,c/a/ca3f6c20b000992966d65e36512461914c01b181
+„
+Tsrc/main/java/com/example/template/global/apiPayload/exception/GeneralException.java,b/2/b255853ef0a55fcbc2821f1f83310c08f50d02dd
+u
+Esrc/main/java/com/example/template/global/apiPayload/ApiResponse.java,d/1/d134c468da1566f4e7b8c6c0b162956254408bd9
+|
+Lsrc/main/java/com/example/template/domain/func1/exception/FuncException.java,4/4/4442518c34d53d4489f2ef42d042e1a26c044e9c
