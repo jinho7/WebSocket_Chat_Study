@@ -3,8 +3,6 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
-i
-9src/main/java/com/example/template/domain/repository.java,3/7/3756494c62018d618df61cd4112bfd19c7ff8982
 |
 Lsrc/main/java/com/example/template/domain/func1/exception/FuncErrorCode.java,8/9/89b2a3236665206204fe01fc7efadbe0c4fa1d32
 
