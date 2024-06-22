@@ -1,0 +1,11 @@
+
+|
+java:S1118":Add a private constructor to hide the implicit public one.(¦›˜s8ïòÅÔƒ2J$d8b3979f-45a6-45aa-8e62-5cef3bc903b5
+o
+java:S1128"MRemove this unused import 'com.example.template.domain.chat.entity.ChatRoom'.(¨Ä›ùÿÿÿÿ8ºíÆÔƒ2
+h
+java:S1128"KRemove this unused import 'com.example.template.domain.chat.entity.Member'.(ÊÅÅ8»íÆÔƒ2
+i
+java:S1128"LRemove this unused import 'com.example.template.domain.chat.entity.Message'.(ÏÉ›¡8¼íÆÔƒ2
+g
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8¾íÆÔƒ2

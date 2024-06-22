@@ -1,0 +1,12 @@
+
+~	java:S125)"<This block of commented-out lines of code should be removed.(­„†ñ8—ûÉ‚ƒ2J$a0ea8c14-80b9-4406-80cc-4aea94a3f526
+
+java:S1128"VRemove this unused import 'com.example.template.domain.chat.entity.enums.MessageType'.(È‘é†ûÿÿÿÿ8÷š”ƒ2J$3eeacb5d-d189-4ec0-8826-2f2fa70202b3
+’
+java:S1128"ORemove this unused import 'com.example.template.global.config.WebSocketConfig'.(æéÔ‰8øš”ƒ2J$8ddf1d91-fe84-492b-9cde-4d66985545cd
+
+java:S1128"LRemove this unused import 'org.springframework.web.socket.WebSocketSession'.(®Ÿ¿Ã8øš”ƒ2J$bf6a972f-54fe-4cba-804a-93143b9605ac
+‚
+java:S1128"@Remove this unused import 'jakarta.persistence.EnumType.STRING'.(ğ·ì[8øš”ƒ2J$d814bcaa-be07-4366-82f4-1d78e1be98cf
+‹
+java:S1128"HRemove this unused import 'jakarta.persistence.GenerationType.IDENTITY'.(ŞÑŞ•8øš”ƒ2J$f0a6422b-587c-4ddd-a970-75a2d0188a51
